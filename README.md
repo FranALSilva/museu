@@ -1,9 +1,8 @@
 # 🛠 Projeto [Museu]
 
 <!-- Imagem ou banner do projeto -->
-<p align="center">
-  <img src="assets/museu1.jpeg" alt="Imagem do Projeto" width="300"/>
-</p>
+![image](https://github.com/user-attachments/assets/b2a21fa2-d989-4ef4-ac72-9327cb4b3331)
+
 
 Bem-vindo(a) ao repositório **[museu]** — desenvolvido por **Fran AL Silva**.
 
